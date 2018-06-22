@@ -1,0 +1,32 @@
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.deps.json
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.runtimeconfig.json
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.runtimeconfig.dev.json
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.dll
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.pdb
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.Views.dll
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\bin\Debug\netcoreapp2.1\Exercise Files.Views.pdb
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.csprojAssemblyReference.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.csproj.CoreCompileInputs.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.RazorAssemblyInfo.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.RazorAssemblyInfo.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.AssemblyInfoInputs.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.AssemblyInfo.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.TagHelpers.input.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.TagHelpers.output.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.RazorCoreGenerate.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.RazorTargetAssemblyInfo.cache
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.RazorTargetAssemblyInfo.cs
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.Views.pdb
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.dll
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.pdb
+C:\Users\syamashita.DPC\Desktop\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\MyDotNet\obj\Debug\netcoreapp2.1\Exercise Files.csproj.CopyComplete
